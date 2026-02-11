@@ -6,9 +6,9 @@ title = "SworldCraft Launcher"
 [ejs.landing]
 mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
 mediaXURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/7RJrhEGz78"
+mediaInstagramURL = "https://www.instagram.com/freefree_drawing/"
+mediaYouTubeURL = "https://www.youtube.com/@FreedomOfficielOGS/videos"
+mediaDiscordURL = "https://discord.gg/7UBg3P79TX"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
